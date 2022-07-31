@@ -322,10 +322,12 @@ img {
 }
 .form-icon {
   position: absolute;
+  display: block;
+  z-index: 100000;
 }
 .person {
   bottom: 14px;
-  left: 15px;
+  left: 55px;
   width: 12px;
   height: 12px;
 }
@@ -333,13 +335,13 @@ img {
   width: 13px;
   height: 13px;
   bottom: 14px;
-  left: 14px;
+  left: 55px;
 }
 .email {
   width: 15px;
   height: 12px;
   bottom: 14px;
-  left: 14px;
+  left: 54px;
 }
 .comment-area {
   display: block;
