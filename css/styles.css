@@ -301,6 +301,7 @@ img {
 }
 .form-list-item {
   margin-bottom: 10px;
+  position: relative;
 }
 .form-text {
   display: block;
@@ -311,7 +312,6 @@ img {
   margin-left: 40px;
 }
 .text-box {
-  position: relative;
   display: block;
   width: 448px;
   height: 40px;
@@ -322,7 +322,7 @@ img {
 }
 .form-icon {
   position: absolute;
-  fill: var(--main-color);
+  fill: #212121;
 }
 .person {
   bottom: 14px;
