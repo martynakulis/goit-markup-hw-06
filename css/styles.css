@@ -362,7 +362,7 @@ img {
   letter-spacing: 0.01em;
   color: rgba(117, 117, 117, 0.5);
 }
-.acceptation-icon {
+/*.acceptation-icon {
   position: absolute;
   width: 11px;
   height: 8px;
@@ -371,7 +371,7 @@ img {
   z-index: 1;
   opacity: 0;
   visibility: hidden;
-}
+}*/
 .acceptation-item {
   position: relative;
   margin-left: 52px;
@@ -420,8 +420,11 @@ img {
 }
 .form-policy:checked + .form-policy-text::before {
   background-color: #2196f3;
-  border: none;
+  outline: none;
   background-image: url(images/icons.svg#icon-checked);
+  background-repeat: no-repeat;
+  background-position: 37% 65%;
+  background-size: 11px 8px;
 }
 .section {
   padding-top: 94px;
