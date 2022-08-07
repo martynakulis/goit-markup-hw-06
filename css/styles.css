@@ -369,6 +369,8 @@ img {
   left: 3px;
   top: 4px;
   z-index: 1;
+  opacity: 0;
+  visibility: hidden;
 }
 .acceptation-item {
   position: relative;
