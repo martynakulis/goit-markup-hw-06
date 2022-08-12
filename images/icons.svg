@@ -23,7 +23,7 @@
 </symbol>
 <symbol id="icon-checked" viewBox="0 0 37 37">
 <title>checked</title>
-<path  stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5692" d="M5.57 17.793l-0.196-0.187-2.941 2.786 10.362 9.886 21.771-20.768-2.922-2.787-18.849 17.964-7.226-6.893z"></path>
+<path fill="#ffffff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5692" d="M5.57 17.793l-0.196-0.187-2.941 2.786 10.362 9.886 21.771-20.768-2.922-2.787-18.849 17.964-7.226-6.893z"></path>
 </symbol>
 <symbol id="icon-antenna-1" viewBox="0 0 37 37">
 <title>antenna-1</title>
