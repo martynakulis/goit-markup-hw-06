@@ -434,13 +434,20 @@ img {
   border-radius: 2px;
   margin-right: 7px;
 }
+.acceptation-icon {
+  width: 11px;
+  height: 18px;
+  position: absolute;
+  top: 0px;
+  left: 3px;
+}
 .form-policy:checked + .form-policy-text::before {
-  background-image: url(images/icon-checked.svg);
-  background-repeat: no-repeat;
-  background-position: 37% 65%;
-  background-size: 11px 8px;
   background-color: #2196f3;
   outline: none;
+  background-image: url(../images/icon-checked.svg);
+  /* background-repeat: no-repeat;
+  background-position: 37% 65%;
+  background-size: 11px 8px;*/
 }
 .section {
   padding-top: 94px;
