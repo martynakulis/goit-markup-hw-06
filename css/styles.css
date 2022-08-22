@@ -382,16 +382,7 @@ img {
 .comment-area:focus-within {
   outline: 1px solid #2196f3;
 }
-/*.acceptation-icon {
-  position: absolute;
-  width: 11px;
-  height: 8px;
-  left: 3px;
-  top: 4px;
-  z-index: 1;
-  opacity: 0;
-  visibility: hidden;
-}*/
+
 .acceptation-item {
   position: relative;
   margin-left: 52px;
