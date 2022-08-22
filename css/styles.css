@@ -219,9 +219,10 @@ img {
   background-color: var(--heading-color);
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url('/images/backgroung-image.jpg');
-  max-width: 1600px;
+  width: 1600px;
   height: 600px;
   margin: 0 auto;
+  position: relative;
 }
 .heading-title {
   color: var(--heading-title-color);
@@ -247,7 +248,10 @@ img {
   cursor: pointer;
   border: none;
   border-radius: 4px;
-  margin: 0 700px;
+  position: absolute;
+  left: 700px;
+  right: 700px;
+  top: 350px;
   padding: 10px 41px 10px 41px;
 }
 .backdrop {
